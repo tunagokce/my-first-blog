@@ -25,7 +25,7 @@ SECRET_KEY = ')w%+99rf3#vrz4d8xl3kn5hplpnr$#wi3bbb+k1u)3r(!us25g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tunagokce.pythonanywhere.com']
 
 
 # Application definition
